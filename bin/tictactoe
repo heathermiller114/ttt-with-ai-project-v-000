@@ -2,10 +2,6 @@
 
 require_relative '../config/environment'
 
-<<<<<<< HEAD
-
-=======
->>>>>>> fee4289d3bae1818b46fd32ed61a05f9d56ee4d6
 def start_game
   puts "Welcome to Tic-Tac-Toe!"
   puts "What kind of game would you like to play?
