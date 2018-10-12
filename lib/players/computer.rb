@@ -21,7 +21,7 @@ module Players
         "4"
       elsif board.cells[5] == " "
         "6"
+      end
     end
-    
   end
 end
